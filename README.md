@@ -29,11 +29,5 @@ Instead of detecting attacks after they happen, PhantomNet confuses attackers be
 - AI Layer → Behavior analysis + compliance mapping
 
 
-## ✅ Next Step
-- Push repo → Judges ko link share karo.
-- Demo ready rakho:  
-  - Normal login → Real dashboard  
-  - Attacker login → Fake dashboard + logs  
 
----
 
