@@ -28,11 +28,6 @@ Instead of detecting attacks after they happen, PhantomNet confuses attackers be
 - Backend Layer → Logic & Controls Engine
 - AI Layer → Behavior analysis + compliance mapping
 
-## 🏆 Hackathon Pitch
-"Sir, hamara system reactive nahi, balki **active defense model** par kaam karta hai.  
-Ye attacker ko honeypot sandbox me fasa kar AI se analyze karta hai, Tar-Pit se scripts choke karta hai, aur MITRE compliance ke sath forensic logs export karta hai."
-
----
 
 ## ✅ Next Step
 - Push repo → Judges ko link share karo.
@@ -42,4 +37,3 @@ Ye attacker ko honeypot sandbox me fasa kar AI se analyze karta hai, Tar-Pit se 
 
 ---
 
-Dhruv, agar tum chaho toh main tumhare liye ek **sample README.md file full code** likh du jo tum bas copy‑paste karke repo me daal do. Ye tumhe hackathon me direct edge dega. Kya main tumhe wo ready‑made README bana du?
